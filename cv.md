@@ -15,7 +15,7 @@
 
 ### About Myself:
 
-The main reason why I started learnimg web developing is feeling like you've gotten absolutely nothing. I worked as a salesperson, childminder, florist and I'd understood it isn't my goal. My goal is BECOME a really good specialist in IT sphere, using all of my skills and habits, and of course learn and develop everytime for the better future of our world. Now I'm about to get my hands on Javascript as I'm getting used to coding with HTML and CSS. I got Windows and code on VS Code. So far, I'm practicing with just making random websites on my local server, getting more used to imrove my skills in JS and HTML & CSS.
+The main reason why I started learning web developing is feeling like you've got absolutely nothing. I've worked as a salesperson, childminder, florist and realized that it wasn't my goal. My goal is to BECOME a really good specialist in IT sphere, using all of my skills and knowledge, and of course learn and develop everytime for the better future of our world. Now I'm about to get my hands on Javascript as I'm getting used to coding with HTML and CSS. I have got Windows and coded on VS Code. So far, I'm practicing with just making random websites on my local server, imroving my skills in JS and HTML & CSS.
 
 ****
 
